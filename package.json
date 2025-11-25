@@ -1,0 +1,13 @@
+{
+  "name": "explore-4253-test",
+  "version": "1.0.0",
+  "description": "Test project for SIGINT-4253 - Coverity PR comments with CID and URL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["coverity", "security", "testing"],
+  "author": "Bridge Team",
+  "license": "MIT"
+}
